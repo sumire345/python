@@ -1,0 +1,28 @@
+print('name:Risa')
+age=21
+print('age:'+str(age))
+
+name=input('What is your name?')
+print('My name is '+name)
+
+first_name=input('what is your name?')
+print('My first name is:'+first_name)
+
+age=input('How old are you?')
+print('I am '+age+' years old.')
+
+birth_year=input('What is your birth_year?')
+age=2021-int(birth_year)
+print(age)
+
+
+#name:Risa
+age:21
+What is your name?saya
+My name is saya
+what is your name?saya
+My first name is:saya
+How old are you?21
+I am 21 years old.
+What is your birth_year?2000
+21
