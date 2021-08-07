@@ -1,0 +1,53 @@
+name=input('what is your name ?')
+print('My name is '+name)
+
+a=5
+b=7
+print(a+b)
+
+first_number=input('what is your first_number?')
+second_number=input('what is your second_number?')
+print(int(first_number)*int(second_number))
+
+x=input('what is x?')
+y=input('what is y?')
+print('x='+str(y))
+print('y='+str(x))
+
+x = 4
+y = 3
+
+temp = x
+x = y
+y = temp
+
+print(x)
+print(y)
+
+Birth_year=input('what is your Birth_year?')
+age=2021-int(Birth_year)
+print('My Birth_year is '+Birth_year)
+print(age)
+
+
+#
+what is your name ?saya
+My name is saya
+
+12
+
+what is your first_number?5
+what is your second_number?4
+20
+
+what is x?3
+what is y?4
+x=4
+y=3
+
+3
+4
+
+what is your Birth_year?1990
+My Birth_year is 1990
+31
