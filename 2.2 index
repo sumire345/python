@@ -1,0 +1,19 @@
+course="Python for Beginners"
+print(course[7])
+print(course[-1])
+print(course[:7])
+print(course[7:10])
+
+course="Python for Beginners"
+print(course.find('B'))
+
+course="sumire asahi"
+print(course.replace('sumire','yuki'))
+
+
+#f
+s
+Python 
+for
+11
+yuki asahi
