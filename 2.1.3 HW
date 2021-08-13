@@ -1,0 +1,23 @@
+base=input('what is the length of the base?')
+hight=input('what is the hight?')
+print(1/2*int(base)*int(hight))
+
+x=input('what is x?')
+print(int(x)*int(x))
+
+principle=input('what is principle?')
+daily_interest_rate=input('what is daily_interest_rate?')
+number_of_days_between_payments=input('what is number_of_days_between_payments?')
+print(int(principle)*int(daily_interest_rate)*int(number_of_days_between_payments))
+
+
+
+#what is the length of the base?3
+what is the hight?2
+3.0
+what is x?3
+9
+what is principle?5
+what is daily_interest_rate?5
+what is number_of_days_between_payments?5
+125
