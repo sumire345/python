@@ -1,0 +1,27 @@
+if(int(A+B) > 20):
+    print('A+B is bigger than 20')
+
+elif(int(A+B) < 20):
+    print('A+B is less than 20')
+
+else:
+    print('A is equal to B')
+    
+    
+A = input('What is the first_number?')
+B = input('What is the second_number?')
+
+if(int(A+B) > 20):
+    print('A+B is bigger than 20')
+
+elif(int(A+B) < 20):
+    print('A+B is less than 20')
+
+else:
+    print('A is equal to B')
+    
+#A+B is less than 20
+What is the first_number?10
+What is the second_number?20
+A+B is bigger than 20
+    
