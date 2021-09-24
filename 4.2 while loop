@@ -1,0 +1,18 @@
+i = 1
+while i <= 5:
+    if(i%2 == 0):
+        print("The number " + str(i) + "is " + "even.")
+    else:
+        print("The number" + str(i) + "is" + "odd.")
+
+    i = i + 1
+
+print("stop")
+
+#
+The number1isodd.
+The number 2is even.
+The number3isodd.
+The number 4is even.
+The number5isodd.
+stop
