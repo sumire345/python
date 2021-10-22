@@ -1,0 +1,22 @@
+A = input('what is your number?')
+i = 1
+while i <= 3:
+    B = input('Guess the number.')
+    if(A == B):
+        print('Correct!')
+    else:
+        print('False!')
+        i = i + 1
+
+print('Done')
+
+
+#
+what is your number?5
+Guess the number.7
+False!
+Guess the number.3
+False!
+Guess the number.2
+False!
+Done
