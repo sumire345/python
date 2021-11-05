@@ -1,0 +1,31 @@
+i = 1
+while i < 6:
+    print(i*("*"))
+    i = i + 1
+
+x=input("input one number between 0 to 10")
+a=1
+while a<=3:
+    a = a + 1
+    y=input("Guss the number.")
+    if x==y:
+       print("correct")
+    elif a==4:
+        print("Game over")
+
+    else:
+       print("try again")
+       
+#
+*
+**
+***
+****
+*****
+input one number between 0 to 103
+Guss the number.4
+try again
+Guss the number.2
+try again
+Guss the number.3
+correct
